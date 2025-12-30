@@ -1,8 +1,6 @@
 # 🔤 BC XLF Translator (Web)
 
-**BC XLF Translator** is a **web-based tool** that allows developers and consultants to **import, translate, and export XLF files** used for Business Central extension localization—**directly in your browser**, no installation required.
-
-It simplifies the translation workflow by allowing both **manual translations** and **automatic translations using the DeepL API**, without requiring the original extension to be installed.
+**BC XLF Translator** is a **web-based tool** that allows developers and consultants to **import, translate, and export XLF files** used for Business Central extension localization **directly in your browser**
 
 ---
 
